@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0'>
+    <GWSC>
+        <Site>
+            <ID>1</ID>
+            <Name>Splash Oasis</Name>
+            <Category>Swimming</Category>
+            <Lat>52.34411</Lat>
+            <Log>1.68901</Log>
+        </Site>
+        <Site>
+            <ID>2</ID>
+            <Name>Starry Nights Camp</Name>
+            <Category>Camping</Category>
+            <Lat>52.61856</Lat>
+            <Log>0.71498</Log>
+        </Site>
+        <Site>
+            <ID>3</ID>
+            <Name>Campground Paradise</Name>
+            <Category>Camping</Category>
+            <Lat>52.6863</Lat>
+            <Log>1.0655</Log>
+        </Site>
+        <Site>
+            <ID>4</ID>
+            <Name>Wavefront Waters</Name>
+            <Category>Swimming</Category>
+            <Lat>52.54368</Lat>
+            <Log>1.73548</Log>
+        </Site>
+        <Site>
+            <ID>5</ID>
+            <Name>Adventure Basecamp</Name>
+            <Category>Camping</Category>
+            <Lat>52.42466</Lat>
+            <Log>0.71804</Log>
+        </Site>
+    </GWSC>
+</rss>

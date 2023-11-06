@@ -1,0 +1,1 @@
+This assignment called Global Wild Swimming & Camping is the program developed using HTML, CSS, Javascript, PHP and MySQL. Also, some APIs such as OpenStreetMap API and OpenWeatherMap API are implemented using Javascript.
